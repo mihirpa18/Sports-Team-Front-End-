@@ -2,8 +2,8 @@
   This is a simple, responsive fan page for the Indian Cricket Team, featuring sections on team information, player lists, live scorecards, latest news, and upcoming matches. The site is styled to provide an interactive and visually appealing experience, both on mobile and desktop devices.
 
 # Features
-  Team Overview: A brief description of the Indian cricket team.
-  Players List: A dynamically generated list of players.
+  # Team Overview: A brief description of the Indian cricket team.
+  # Players List: A dynamically generated list of players.
   Live Scorecard: Displays live or recent match scores and outcomes.
   Latest News: Highlights key updates and news items related to the team.
   Upcoming Matches: Displays a list of the upcoming matches with dates.
